@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentMain">
+
+    <fragment
+        android:id="@+id/fragmentMain"
+        android:name="com.example.emigrantcoffee.FragmentMain"
+        android:label="FragmentMain" >
+        <action
+            android:id="@+id/action_fragmentMain_to_recyclerFragment"
+            app:destination="@id/recyclerFragment" />
+        <action
+            android:id="@+id/action_fragmentMain_to_recyclerColdFragment2"
+            app:destination="@id/recyclerColdFragment2" />
+        <action
+            android:id="@+id/action_fragmentMain_to_recyclerDessertFragment"
+            app:destination="@id/recyclerDessertFragment" />
+        <action
+            android:id="@+id/action_fragmentMain_to_recyclerWithOutCoffeeFragment"
+            app:destination="@id/recyclerWithOutCoffeeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/recyclerFragment"
+        android:name="com.example.emigrantcoffee.RecyclerFragment"
+        android:label="fragment_recycler"
+        tools:layout="@layout/fragment_recycler" />
+    <fragment
+        android:id="@+id/recyclerColdFragment2"
+        android:name="com.example.emigrantcoffee.RecyclerColdFragment"
+        android:label="fragment_recycler_cold"
+        tools:layout="@layout/fragment_recycler_cold" />
+    <fragment
+        android:id="@+id/recyclerDessertFragment"
+        android:name="com.example.emigrantcoffee.RecyclerDessertFragment"
+        android:label="fragment_recycler_dessert"
+        tools:layout="@layout/fragment_recycler_dessert" />
+    <fragment
+        android:id="@+id/recyclerWithOutCoffeeFragment"
+        android:name="com.example.emigrantcoffee.RecyclerWithOutCoffeeFragment"
+        android:label="fragment_recycler_with_out_coffee"
+        tools:layout="@layout/fragment_recycler_with_out_coffee" />
+    <fragment
+        android:id="@+id/drawerHomeFragment2"
+        android:name="com.example.emigrantcoffee.DrawerHomeFragment"
+        android:label="DrawerHomeFragment" >
+        <action
+            android:id="@+id/action_drawerHomeFragment2_to_recyclerWithOutCoffeeFragment"
+            app:destination="@id/recyclerWithOutCoffeeFragment" />
+        <action
+            android:id="@+id/action_drawerHomeFragment2_to_recyclerDessertFragment"
+            app:destination="@id/recyclerDessertFragment" />
+        <action
+            android:id="@+id/action_drawerHomeFragment2_to_recyclerColdFragment2"
+            app:destination="@id/recyclerColdFragment2" />
+        <action
+            android:id="@+id/action_drawerHomeFragment2_to_recyclerFragment"
+            app:destination="@id/recyclerFragment" />
+    </fragment>
+</navigation>

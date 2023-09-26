@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Emigrant Coffee</string>
+    <string name="hotcoffee">Hot Coffee</string>
+    <string name="coldcoffee">Ice Coffee</string>
+    <string name="capi">Cappuccino</string>
+    <string name="latey">Latte</string>
+    <string name="lateyextra">Extra Syrup </string>
+    <string name="hotamericano">Americano</string>
+    <string name="filter">Filter Coffee</string>
+    <string name="cortado">Cortado</string>
+    <string name="matcha">Special Matcha</string>
+    <string name="turkish">Turkish Coffee</string>
+    <string name="mokayato">Mocha</string>
+    <string name="tonic">Espresso Tonic</string>
+    <string name="matchatonic">Matcha Tonic</string>
+    <string name="bumble">Bumble</string>
+    <string name="oreoice">Ice Oreo Latte</string>
+    <string name="honetlate">Ice Honey Latte</string>
+    <string name="citrus">Ice Citrus Latte</string>
+    <string name="icewhite">Ice White Mocha</string>
+    <string name="iclatte">Ice Latte</string>
+    <string name="mok">Ice Mocha</string>
+    <string name="qaramel">Ice Salted Caramel</string>
+    <string name="popcornlatte">Ice Popcorn</string>
+    <string name="coconutlatte">Ice Coconut</string>
+    <string name="raff">Raf</string>
+
+    <string name="pinocolado">Pino Colada</string>
+    <string name="muzfıstık">Peanut Butter Smoothie</string>
+    <string name="applepie">Apple Pie Milkshake</string>
+    <string name="oreo">Oreo Milkshake</string>
+    <string name="ahududu">Raspbery Milkshake</string>
+    <string name="bubblegum">Bubble Gum Milkshake</string>
+    <string name="limonata">Lemonade</string>
+    <string name="malina">Raspberry Lemonade</string>
+    <string name="cucumber">Cucumber-Mint Lemonade</string>
+    <string name="juice">Orange Juice</string>
+    <string name="cay1">Emigrant Tea</string>
+    <string name="cay2">Tropical Mango Tea</string>
+    <string name="cay3">Raspberry Tea</string>
+
+    <string name="melenga">Melange Roulette -меланжевая рулетка</string>
+    <string name="medovik">Medovik-медовик </string>
+    <string name="threechocolate">Three Chocolate-Три шоколада</string>
+    <string name="strawberrymint">Strawberry Mint Mouse-клубнично-мятный мусс</string>
+    <string name="kitkat">KitKat Cheesecake-Киткат Чизкейк</string>
+    <string name="truf">Truffle Ball-трюфельный шарик</string>
+    <string name="raw">Raw Matcha-Cheesecake-Сырой Матча</string>
+    <string name="somon">Salmon Bowl-миска с лососем</string>
+    <string name="chicken">Chicken Bowl-куриная миска</string>
+    <string name="tortilla">Salmon Tortilla-тортилья с лососем</string>
+
+    <string name="back">Back</string>
+
+
+
+
+    <string name="wayt">White Mocha</string>
+    <string name="popcorn">Popcorn Latte</string>
+    <string name="normalkahve">Flat White</string>
+    <string name="menu1">Home - дом</string>
+    <string name="dessert">Dessert And Bowl</string>
+    <string name="without">Without Coffee</string>
+    <string name="menuins">"@emigrant_coffee"</string>
+    <string name="location">"Liman 33 SK No 37 Konyaaltı-Antalya
+
+    </string>
+    <string name="declaration">"  Where Every Cup Tells a Story
+
+At Emigrant Coffee, we believe that coffee is more than just a beverage; it's a journey, a connection to the world. Our story begins with a passion for the finest coffee beans sourced from across the globe.
+
+Founded by a team of coffee enthusiasts and travelers, our mission is to share the rich and diverse flavors of coffee with you. Each cup is a testament to the dedicated farmers and their communities who cultivate these exceptional beans.
+
+Our commitment to sustainability drives us to support fair trade practices, ensuring that every step in the coffee-making process benefits the communities we partner with. From the bean to your cup, we take pride in our ethical and environmentally conscious approach.
+
+Step into our cozy cafe, and you'll experience more than just a coffee break; it's an opportunity to immerse yourself in the stories, cultures, and traditions that coffee brings with it. Our baristas are dedicated to crafting the perfect cup tailored to your preferences.
+
+Join us on this coffee adventure as we explore the world, one bean at a time. Emigrant Coffee invites you to savor the journey, appreciate the craft, and share in the passion for the world's most beloved beverage.</string>
+
+    <string name="etiyopya">Ethiopia- Эфиопия</string>
+    <string name="etiyopyatext">" Эфиопия - родина кофе и место, где началась его культура. Эфиопская история кофе насчитывает более тысячи лет, и это место, где выращиваются некоторые из самых уникальных сортов арабики.
+Эфиопский кофе славится своим богатым вкусом с нотами цветов, фруктов и ягод. Он имеет неповторимый характер, который невозможно спутать с каким-либо другим кофе.
+Процесс обжарки кофейных зерен в Эфиопии уникален. Бобы обжариваются на открытом огне, что придает им особый аромат и вкус.
+Эфиопский кофе не просто напиток, это часть национальной культуры. Приготовление и употребление кофе - это церемония, которая собирает людей вместе и укрепляет связи.
+Инглизка:
+
+Ethiopia is the birthplace of coffee, where its culture originated. Ethiopian coffee history spans over a thousand years, and it's where some of the most unique Arabica varieties are grown.
+Ethiopian coffee is renowned for its rich flavor with notes of flowers, fruits, and berries. It has a distinctive character that is unmistakable and unlike any other coffee.
+The roasting process of coffee beans in Ethiopia is unique. The beans are roasted over an open flame, imparting a special aroma and flavor to them.
+Ethiopian coffee is more than just a beverage; it's a part of the national culture. The preparation and consumption of coffee are ceremonies that bring people together and strengthen bonds.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
