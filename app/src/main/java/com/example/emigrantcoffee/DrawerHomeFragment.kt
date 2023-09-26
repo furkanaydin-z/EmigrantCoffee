@@ -24,20 +24,4 @@ class DrawerHomeFragment : Fragment() {
         return _binding!!.root
     }
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-        binding.hotbuttondrawerhome.setOnClickListener {
-            findNavController().navigate(R.id.action_drawerHomeFragment2_to_recyclerFragment)
-        }
-        binding.coldbuttondrawerhome.setOnClickListener {
-            findNavController().navigate(R.id.action_drawerHomeFragment2_to_recyclerColdFragment2)
-        }
-        binding.dessertbuttondrawerhome.setOnClickListener {
-            findNavController().navigate(R.id.action_drawerHomeFragment2_to_recyclerDessertFragment)
-        }
-        binding.withoutcoffeebuttondrawerhome.setOnClickListener {
-            findNavController().navigate(R.id.action_drawerHomeFragment2_to_recyclerWithOutCoffeeFragment)
-        }
-    }
-
 }

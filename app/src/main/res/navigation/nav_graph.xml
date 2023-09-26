@@ -42,21 +42,4 @@
         android:name="com.example.emigrantcoffee.RecyclerWithOutCoffeeFragment"
         android:label="fragment_recycler_with_out_coffee"
         tools:layout="@layout/fragment_recycler_with_out_coffee" />
-    <fragment
-        android:id="@+id/drawerHomeFragment2"
-        android:name="com.example.emigrantcoffee.DrawerHomeFragment"
-        android:label="DrawerHomeFragment" >
-        <action
-            android:id="@+id/action_drawerHomeFragment2_to_recyclerWithOutCoffeeFragment"
-            app:destination="@id/recyclerWithOutCoffeeFragment" />
-        <action
-            android:id="@+id/action_drawerHomeFragment2_to_recyclerDessertFragment"
-            app:destination="@id/recyclerDessertFragment" />
-        <action
-            android:id="@+id/action_drawerHomeFragment2_to_recyclerColdFragment2"
-            app:destination="@id/recyclerColdFragment2" />
-        <action
-            android:id="@+id/action_drawerHomeFragment2_to_recyclerFragment"
-            app:destination="@id/recyclerFragment" />
-    </fragment>
 </navigation>
